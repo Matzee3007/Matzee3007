@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <rect width="1280" height="640" fill="#15181d"/>
+  <text x="40" y="78" fill="#8b949e" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="600">Tages-Dashboard</text>
+  <g fill="#22272e">
+    <rect x="40" y="120" width="380" height="230" rx="16"/>
+    <rect x="450" y="120" width="380" height="230" rx="16"/>
+    <rect x="860" y="120" width="380" height="230" rx="16"/>
+    <rect x="40" y="380" width="790" height="220" rx="16"/>
+    <rect x="860" y="380" width="380" height="220" rx="16"/>
+  </g>
+  <g fill="#2f3640">
+    <rect x="72" y="156" width="160" height="18" rx="9"/>
+    <rect x="482" y="156" width="120" height="18" rx="9"/>
+    <rect x="892" y="156" width="140" height="18" rx="9"/>
+    <rect x="72" y="416" width="200" height="18" rx="9"/>
+    <rect x="892" y="416" width="110" height="18" rx="9"/>
+  </g>
+</svg>
